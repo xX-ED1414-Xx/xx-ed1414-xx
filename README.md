@@ -56,7 +56,7 @@ Science, Technology, Engineering, and Mathematics (STEM) Track
 
 ## 》RESUME 
 <p align="left">
-  <a href="https://xx-ed1414-xx.github.io/portfolio/assets/resume.pdf">
+  <a href="./assets/resume.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
