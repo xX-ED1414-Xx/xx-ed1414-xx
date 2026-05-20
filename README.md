@@ -1,4 +1,5 @@
-*Credits to the artist: @waik08bit*
+_Credits to the artist: @waik08bit_
+
 <p align="center">
   <img src="./assets/banner.gif" alt="Profile Banner" width="1000">
 </p>
@@ -13,49 +14,65 @@
   </a>
 </h3>
 
-## 》EDUCATION  
+## 》EDUCATION
 
-* **Polytechnic University of the Philippines — A. Mabini Campus**  
-Bachelor of Science in Information Technology (BSIT)  
-*2022 - 2026*
+- **Polytechnic University of the Philippines — A. Mabini Campus**  
+  Bachelor of Science in Information Technology (BSIT)  
+  _2022 - 2026_
 
-* **St. Lino Science High School**  
-Science, Technology, Engineering, and Mathematics (STEM) Track   
-*2016 - 2022*
+- **St. Lino Science High School**  
+  Science, Technology, Engineering, and Mathematics (STEM) Track  
+  _2016 - 2022_
 
-## 》TECHNOLOGIES 
+## 》TECHNOLOGIES
 
 ### Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,c,java,py,r,html,css,js&perline=8" />
 </p>
 
-### Frameworks, Libraries, and Engines
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,tailwind,unity&perline=6" />
-</p>
+### Frameworks and Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastTree-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fabric%20MC-DBD0B4?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=dotnet,tailwind" />
+  <img src="./assets/ml-net.svg" height="48"/>
 </p>
 
-### Database
+### Game Development and Modding
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="./assets/fabric-mc.png" height="48"/>
+</p>
+
+### Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools and Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio&perline=6" />
-</p>
+### Operating Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,arch,mint,ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="48"/>
 </p>
 
-## 》RESUME 
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" />
+</p>
+
+### Creative Tools
+
+<p align="left">
+  <img src="./assets/ibis.svg" height="48"/>
+</p>
+
+## 》RESUME
+
 <p align="left">
   <a href="./assets/resume.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
